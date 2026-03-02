@@ -1,0 +1,38 @@
+[
+  {
+    "size_bytes": 262144,
+    "size_label": "256 KB",
+    "upload_time": 0.049172,
+    "download_time": 0.120063
+  },
+  {
+    "size_bytes": 524288,
+    "size_label": "512 KB",
+    "upload_time": 0.061338,
+    "download_time": 0.204015
+  },
+  {
+    "size_bytes": 1048576,
+    "size_label": "1 MB",
+    "upload_time": 0.090618,
+    "download_time": 0.742653
+  },
+  {
+    "size_bytes": 2097152,
+    "size_label": "2 MB",
+    "upload_time": 0.296959,
+    "download_time": 0.70194
+  },
+  {
+    "size_bytes": 4194304,
+    "size_label": "4 MB",
+    "upload_time": 0.329438,
+    "download_time": 1.253408
+  },
+  {
+    "size_bytes": 8388608,
+    "size_label": "8 MB",
+    "upload_time": 0.677384,
+    "download_time": 2.604699
+  }
+]
